@@ -22,3 +22,8 @@ This class diagram has been designed to model the static view of the system. Thi
 If you'd like to know more about the object oriend concepts, design patterns and considerations. Leave me an e-mail on pouya.ataei.7@gmail.com and I'll send you the full documentation. 
 
 I hope it can be helpful. 
+
+
+<b>There is a video</b>
+
+I've made a video and went through the whole system. I've done it for the university, but I'm sure it comes to aid :)
